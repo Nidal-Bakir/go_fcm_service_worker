@@ -1,0 +1,16 @@
+{
+  "title": "notificaion title",
+  "body": "notificaion body",
+  "data:": {
+    "some_str_key": "123",
+    "some_int_key": 123,
+    "some_bool_key": true,
+    "some_float_key": 123.123,
+    "some_object_key": {
+      "other_data": "data"
+    }
+  },
+  "image_url": "",
+  "collapse_key": "some_collapse_key",
+  "validate_only": true
+}
